@@ -1,0 +1,44 @@
+  *{
+    background-color: #EAF6F6;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  }
+
+h1{
+    color: #66bfbf;
+}
+ 
+h3{
+    color: #66bfbf;
+}
+
+hr {
+     border-color: green ; 
+     height: px;
+     border-style: dashed;
+     width: 900px;
+     
+  
+    }
+
+  img {
+      height: 400px;
+      box-shadow: 5px 10px 20px rgb(0,0,2 );
+      cursor: zoom-in;
+  }
+  
+#first{
+  color: #66bfbf;
+}
+
+.shadow{
+  box-shadow: 0px 10px 20px rgb(0,0,2 );
+}
+form{
+  margin-left: 40px;
+margin-top: 20px;
+  
+
+}
